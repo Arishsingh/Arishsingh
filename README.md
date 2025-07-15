@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="k.gif" alt="Arish Singh Banner" />
+  <img src="k.gif" alt="ArishSingh Banner" />
 </p>
 
 <h1 align="center"> Yoo Arish Singh Here !</h1>
