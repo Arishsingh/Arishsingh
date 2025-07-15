@@ -3,7 +3,7 @@
   <img src="k.gif" alt="Arish Singh Banner" />
 </p>
 
-<h1 align="center"> Hello 👋,Myself Arish Singh !</h1>
+<h1 align="center"> Yoo Arish Singh Here !</h1>
 <h3 align="center">Tech Explorer | AI & Web3 Developer | Creative Coder</h3>
 
 <p align="center">
