@@ -1,10 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img src="h.gif" alt="ArishSingh Banner" width ="1000px" height ="400px" />
+  <img src="q.gif" alt="ArishSingh Banner" width ="1000px" height ="400px" />
 </p>
 
 <h1 align="center"> Yoo Arish Singh Here !</h1>
 <h3 align="center">Tech Explorer | AI & Web3 Developer | Creative Coder</h3>
+<h4 align="center">
+  🌱 <i>“I’d rather be a sprout — constantly growing, reaching for more — than a tree stuck in one place, just waiting for time to pass.”</i> 🌱
+</h4>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arishsingh&label=Profile%20views&color=0e75b6&style=flat" alt="Arishsingh" /> &nbsp;
