@@ -46,6 +46,9 @@ Let’s just say — I code with purpose, and I’m only getting started. </h4>
   </a> &nbsp;
   <a href="https://leetcode.com/u/Arishsingh99/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" />
+  </a>&nbsp;
+  <a href="https://discord.gg/wCAVP6N7" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord"/>
   </a>
 </p>
 
