@@ -8,7 +8,6 @@
 <p>
 I would rather be a sprout, constantly growing and evolving, than a tree standing still and  waiting for time to pass
 </p>
-
 <!-- GitHub Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Arishsingh&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
@@ -40,8 +39,9 @@ I would rather be a sprout, constantly growing and evolving, than a tree standin
   <li><a href="https://dev.to/arishsingh99/amazon-q-developer-cli-2p3h"> how i build a Game with Amazon Q Developer CLI</a></li>
 </ul>
 
-<!-- 📈 GitHub Stats -->
-<h3>📈 GitHub Stats</h3>
+---
+
+<h3> GitHub Stats</h3>
 
 <table>
   <tr>
@@ -56,9 +56,3 @@ I would rather be a sprout, constantly growing and evolving, than a tree standin
     </td>
   </tr>
 </table>
-
-<!-- 🟣 3D Contributions Graph -->
-<img src="https://ssr-contributions-svg.vercel.app/_/Arishsingh?chart=3dbar&gap=0.6&scale=2&gradient=true&for-thebadgeten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true" />
-
-<br>
-
