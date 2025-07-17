@@ -27,11 +27,14 @@ I would rather love to be a sprout, constantly growing and evolving, than a tree
 <p align="left">
 
   <br>
-  <a href="https://dev.to/@yashksaini"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://www.linkedin.com/in/yashksaini"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/yash_k_saini"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.instagram.com/yashksaini.codes/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+ <p align="left">
+  <a href="https://dev.to/arishsingh99"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://www.linkedin.com/in/arish-singh-63a5b732a"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://leetcode.com/u/Arishsingh99/"><img src="a.png" height ="50px" width ="50px" /></a>
+  <a href="https://www.youtube.com/@Notaedit76"><img src="b.png" height ="50px" width ="50px" /></a>
+  <a href="https://www.instagram.com/arish.talks/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
+
 
 ---
 
