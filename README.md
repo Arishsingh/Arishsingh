@@ -53,6 +53,13 @@ I would rather love to be a sprout, constantly growing and evolving, than a tree
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Arishsingh?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" alt="Arish Singh GitHub Stats" />
   <br />
 </p>
-    </td>
+
+  <p> 🏆 GitHub Trophies </p> 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arishsingh&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
+</p>
+
+    
   </tr>
 </table>
