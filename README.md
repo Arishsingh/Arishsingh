@@ -10,7 +10,7 @@
 <!-- Banner -->
 <!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
 
-<h1> Hi Arish Singh Here&hearts;</b>!</h1>
+<h1> ArishSingh Here&hearts;</b>!</h1>
 
 <p>
 I would rather love to be a sprout, constantly growing and evolving, than a tree standing still and  waiting for time to pass
