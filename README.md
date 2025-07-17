@@ -9,7 +9,7 @@
 
 <h1 align="center" > ArishSingh Here &hearts;</b>!</h1>
 
-<p>
+<p align="center">
 I would rather love to be a sprout, constantly growing and evolving, than a tree standing still and  waiting for time to pass
 </p>
 <!-- GitHub Profile Views Counter -->
