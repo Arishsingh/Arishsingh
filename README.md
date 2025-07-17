@@ -120,6 +120,7 @@ Let’s just say — I code with purpose, and I’m only getting started. </h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arishsingh&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
+
 ## 🏆 GitHub Trophies 
 
 <h5>Still learning the ropes, but I’ll be the one to set the bar</h5>
