@@ -6,7 +6,7 @@
 <h1> Yoo  ArishSingh Here &hearts;</b>!</h1>
 
 <p>
-I would rather be a sprout, constantly growing and evolving, than a tree standing still and  waiting for time to pass
+I would rather love to be a sprout, constantly growing and evolving, than a tree standing still and  waiting for time to pass
 </p>
 <!-- GitHub Profile Views Counter -->
 <p align="left">
