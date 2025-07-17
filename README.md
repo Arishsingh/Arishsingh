@@ -1,9 +1,16 @@
+
+<p align="center">
+  <img src="h.gif" alt="Typing SVG" width="1000px" height ="500px" />
+</p>
+
+
+
 <div align="left" style="border: 2px solid #6C63FF; border-radius: 20px; padding: 30px; background-color: #0d1117; color: #ffffff;">
 
 <!-- Banner -->
 <!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
 
-<h1> Yoo  ArishSingh Here &hearts;</b>!</h1>
+<h1> Hi Arish Singh Here&hearts;</b>!</h1>
 
 <p>
 I would rather love to be a sprout, constantly growing and evolving, than a tree standing still and  waiting for time to pass
@@ -41,7 +48,6 @@ I would rather love to be a sprout, constantly growing and evolving, than a tree
 
 ---
 
-<h3> GitHub Stats</h3>
 
 <table>
   <tr>
@@ -53,13 +59,6 @@ I would rather love to be a sprout, constantly growing and evolving, than a tree
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Arishsingh?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" alt="Arish Singh GitHub Stats" />
   <br />
 </p>
-
-  <p> 🏆 GitHub Trophies </p> 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arishsingh&theme=tokyonight&no-frame=true&margin-w=15&column=6" />
-</p>
-
     
   </tr>
 </table>
