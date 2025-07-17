@@ -41,7 +41,7 @@ I would rather love to be a sprout, constantly growing and evolving, than a tree
 </p>
 
 ---
-
+### 🫶🏻 My stuff
 <ul align="left">
   <li><a href="https://dev.to/arishsingh99/amazon-q-developer-cli-2p3h"> how i build a Game with Amazon Q Developer CLI</a></li>
 </ul>
