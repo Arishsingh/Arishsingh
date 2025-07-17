@@ -2,14 +2,12 @@
   <img src="h.gif" alt="Typing SVG" width="1000px" height ="500px" />
 </p>
 
-
-
 <div align="left" style="border: 2px solid #6C63FF; border-radius: 20px; padding: 30px; background-color: #0d1117; color: #ffffff;">
 
 <!-- Banner -->
 <!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
 
-<h1> ArishSingh Here&hearts;</b>!</h1>
+<h1 align="center" > ArishSingh Here &hearts;</b>!</h1>
 
 <p>
 I would rather love to be a sprout, constantly growing and evolving, than a tree standing still and  waiting for time to pass
@@ -39,7 +37,7 @@ I would rather love to be a sprout, constantly growing and evolving, than a tree
 
 ### 📦 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,github,figma,python,html,css,javascript,mysql,mongodb,firebase,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,github,figma,python,html,css,javascript,mysql,mongodb,firebase,bootstrap"  width="1000px"/>
 </p>
 
 ---
