@@ -1,136 +1,67 @@
+<div align="center" style="border: 2px solid #6C63FF; border-radius: 20px; padding: 30px; background-color: #0d1117; color: #ffffff;">
+
 <!-- Banner -->
-<p align="center">
-  <img src="h.gif" alt="ArishSingh Banner" width ="1000px" height ="400px" />
+<!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
+
+<h1>Hi there 👋, I'm <b>Software Developer</b>!</h1>
+
+<p>
+Addicted to <b><i>Code</i></b>, <b><i>Anime</i></b>, <b><i>Agentic AI</i></b> applications.  
+Currently learning LLMs, RAG, System Design, DevOps, Web3 and Cloud.
 </p>
 
-<h1 align="center"> Yoo Arish Singh Here !</h1>
-<h3 align="center">Tech Explorer | AI & Web3 Developer | Creative Coder</h3>
-<h4 align="center">
-  🌱 <i>“I’d rather be a sprout — constantly growing, reaching for more — than a tree stuck in one place, just waiting for time to pass.”</i> 🌱
-</h4>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arishsingh&label=Profile%20views&color=0e75b6&style=flat" alt="Arishsingh" /> &nbsp;
-  <a href="https://github.com/Arishsingh?tab=followers">
-    <img src="https://img.shields.io/github/followers/Arishsingh?label=Followers&style=social" alt="GitHub Followers">
+<p>
+  <a href="https://wakatime.com/@9a827e04-5df8-4525-ace8-e88326bbf87a">
+    <img src="https://wakatime.com/badge/user/9a827e04-5df8-4525-ace8-e88326bbf87a.svg" />
   </a>
+  |
+  <a href="https://x.com/yash_k_saini/status/1886322902573715709">💰 Bounty 103$</a>
+  |
+  <a href="https://x.com/yash_k_saini/status/1883502087688073345">💰 Bounty 7$</a>
 </p>
 
 ---
 
-<br>
-
-<h2 align="">  About Me </h2>
-
-
-<h4>🚀 Hey, I'm Arish Singh, a Java developer who loves turning ideas into real-world solutions.
-I'm super passionate about building full-stack apps using the MERN stack.
-Currently exploring Blockchain and AI to build smarter, future-ready projects.
-I enjoy designing clean UIs and writing solid backend logic that just works.
-Tech for me isn’t just about code — it’s about creating impact for society.
-Always experimenting, learning new skills, and improving my system design & DevOps game.
-I’m especially drawn to projects that solve real problems and help people.
-Let’s just say — I code with purpose, and I’m only getting started. </h4>
-
-<br>
-<p align="left">
-  <a href="https://www.linkedin.com/in/arish-singh-63a5b732a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
-  </a> &nbsp;
-  <a href="https://www.instagram.com/arish.talks" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="30" />
-  </a> &nbsp;
-  <a href="https://www.youtube.com/@Notaedit.76" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" width="30" />
-  </a> &nbsp;
-  <a href="https://leetcode.com/u/Arishsingh99/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" />
-  </a>&nbsp;
-  <a href="https://discord.gg/wCAVP6N7" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord"/>
-  </a>
+### 🌐 Connect with Me
+<p>
+  <a href="https://dev.to/@yashksaini"><img src="https://skillicons.dev/icons?i=devto" /></a>
+  <a href="https://www.linkedin.com/in/yashksaini"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/yash_k_saini"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.instagram.com/yashksaini.codes/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
-
-
-
-<hr>
-<br>
-<br>
-
-<!-- 💻 SKILLS HEADER -->
-<h2 align="">🛠️ Skills & Technologies</h2>
-<br>
-<br>
-
-<!-- 🌌 SKILLS GRID WITH EMOJI RATINGS -->
-<p align="center">
-
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java - ⭐⭐⭐⭐☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript - ⭐⭐⭐☆☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python - ⭐⭐⭐☆☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C - ⭐⭐☆☆☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5 - ⭐⭐⭐⭐☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3 - ⭐⭐⭐☆☆" width="50" style="margin: 15px;" />
-
-<!-- Frameworks & Libraries -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React - ⭐⭐☆☆☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap - ⭐⭐⭐⭐☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js - ⭐⭐☆☆☆" width="50" style="margin: 15px;" />
-
-<!-- Tools & Databases -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL - ⭐⭐⭐☆☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB - ⭐⭐☆☆☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git - ⭐⭐⭐⭐☆" width="50" style="margin: 15px;" />
-<img src="m.png" title="GitHub - ⭐⭐⭐⭐☆" width="50" style="margin: 15px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma - ⭐⭐⭐☆☆" width="50" style="margin: 15px;" />
-
-</p>
-<br>
-<br>
-
-
-
-<!-- Contribution Days Count -->
-## 📊 GitHub Status
-<p align="center">
-  <img src="b.gif" width="250" alt="anime gif 1" style="margin: 10px;" />
-  <img src="a.gif" width="250" alt="anime gif 2" style="margin: 10px;" />
-   <img src="c.gif" width="250" alt="anime gif 2" style="margin: 10px;" />
-</p>
-
-<!-- 🗓️ Contribution Day Count -->
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/Arishsingh.svg" />
-</p>
-
-<!-- 🔥 GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arishsingh&theme=tokyonight_duo&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<!-- 📈 GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arishsingh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-</p>
-
-<!-- 💻 Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arishsingh&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Top Languages" />
-</p>
-
-
-## 🏆 GitHub Trophies 
-
-<h5>Still learning the ropes, but I’ll be the one to set the bar</h5>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arishsingh&theme=onestar&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
 
 ---
 
- 
+### 📦 Skills
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,python,flask,fastapi,html,css,js,bash,nodejs,npm,pnpm,express,nextjs,react,vite,mongo,postgres,tailwind,ts,postman,prisma,supabase,vercel,docker" />
 
+---
+
+### 📚 Latest Blog Posts  
+<ul align="left">
+  <li><a href="https://dev.to/yashksaini/kleos-cli-mindsdb-knowledge-base-supercharged-1a83">Kleos CLI: Mindsdb Knowledge Base supercharged</a></li>
+  <li><a href="https://dev.to/yashksaini/what-does-not-giving-up-get-you-prime-example-2bn9">What does not Giving up get you? Prime example</a></li>
+  <li><a href="https://dev.to/yashksaini/how-i-built-a-ai-agent-server-3315">How I built an AI Agent server</a></li>
+  <li><a href="https://dev.to/yashksaini/automate-discord-messages-30ip">Automate Discord Messages</a></li>
+  <li><a href="https://dev.to/yashksaini/the-friendly-future-how-ai-makes-life-easier-and-safer-for-everyone-4de8">The Friendly Future: How AI Makes Life Easier and Safer</a></li>
+  <li><a href="https://dev.to/yashksaini/first-look-into-daytona-typescript-integration-51i4">First look into Daytona + TypeScript Integration</a></li>
+</ul>
+
+<!-- Optional GitHub Stats (Uncomment if needed) -->
+<!--
+<h3>📈 GitHub Stats</h3>
+<table>
+  <tr>
+    <td><img src="https://github-streak-stats-ruby.vercel.app/?user=yashksaini-coder&theme=tokyonight&hide_border=true" /></td>
+    <td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/yashksaini-coder?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" /></td>
+  </tr>
+</table>
+-->
+
+<!-- <img src="https://ssr-contributions-svg.vercel.app/_/yashksaini-coder?chart=3dbar&gap=0.6&scale=2&gradient=true&for-the-badgeten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=10002B,240046,3C096C,5A189A,7B2CBF,9D4EDD,C77DFF,E0AAFF&dark=true" /> -->
+
+<br>
+
+<p><i>Made with 💙 by Yash Saini</i></p>
+
+</div>
