@@ -7,13 +7,19 @@
 <!-- Banner -->
 <!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
 
-<h1 align="center" > ArishSingh Here &hearts;</b>!</h1>
-
 <p>
-I would rather love to be a sprout, constantly growing and evolving, than a tree standing still and  waiting for time to pass
-</p>
+<h1 align="left" > ArishSingh Here &hearts;</b>!</h1>
+
+<h4>Hi, I'm Arish Singh — a passionate programmer and freelancer who loves collaborating with tech communities, writing insightful research content, and helping companies grow through full-stack projects and audience engagement.</h4>
+ 
+<div align="center">
+  <p style="color:#FF4C4C; font-size:20px; font-style:italic; font-weight:bold;">
+    🌱 "I would rather love to be a sprout, constantly growing and evolving,<br>
+    than a tree standing still and waiting for time to pass." 🌿
+  </p>
+</div>
 <!-- GitHub Profile Views Counter -->
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arishsingh&label=Profile+Views&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/Arishsingh?label=Followers&style=social" alt="followers" />
 </p>
@@ -59,6 +65,13 @@ I would rather love to be a sprout, constantly growing and evolving, than a tree
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Arishsingh?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" alt="Arish Singh GitHub Stats" />
   <br />
 </p>
-    
+   
   </tr>
+  
 </table>
+🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arishsingh&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
