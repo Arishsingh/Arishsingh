@@ -8,7 +8,7 @@
 <!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
 
 <p>
-<h1 align="center" > welocme guys  &hearts;</b>!</h1>
+<h1 align="center" > welcome  &hearts;</b>!</h1>
 
 <h4 align="center">I'm Arish Singh — a passionate programmer and freelancer who loves collaborating with tech communities, writing insightful research
 content, and helping companies grow through full-stack projects and audience engagement.</h4>
@@ -75,6 +75,6 @@ content, and helping companies grow through full-stack projects and audience eng
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arishsingh&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p> give a different design to my trophies like dark blue
+</p>
 
 
