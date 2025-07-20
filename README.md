@@ -75,6 +75,6 @@ content, and helping companies grow through full-stack projects and audience eng
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arishsingh&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p
+</p>
 
 
