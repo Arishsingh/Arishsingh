@@ -51,6 +51,7 @@ content, and helping companies grow through full-stack projects and audience eng
 ### 🫶🏻 My stuff
 <ul align="left">
   <li><a href="https://dev.to/arishsingh99/amazon-q-developer-cli-2p3h"> how i build a Game with Amazon Q Developer CLI</a></li>
+  <li><a href="https://dev.to/arishsingh99/aws-security-101-2g1a">  how i build a AWS Security 101</a></li>
 </ul>
 
 ---
