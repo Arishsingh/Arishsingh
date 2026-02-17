@@ -10,8 +10,8 @@
 <p>
 <h1 align="center" > welcome  &hearts;</b>!</h1>
 
-<h4 align="center">I'm Arish Singh — a passionate programmer and freelancer who loves collaborating with tech communities, writing insightful research
-content, and helping companies grow through full-stack projects and audience engagement.</h4>
+<h4 align="center">Yooo Arish Singh here !  a passionate Develoeper and freelancer who loves collaborating with tech communities, writing insightful research
+content, and helping companies grow through  projects and audience engagement.</h4>
  
 <div align="center">
   <p style="color:"red"; font-size:20px; font-style:italic; font-weight:bold;">
