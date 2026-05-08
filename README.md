@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="Spider-Man Marvel GIF by Spider-Man Across The Spider-Verse.gif" alt="Typing SVG" width="1000px" height ="500px" />
-</p>
-
-<div align="left" style="border: 2px solid #6C63FF; border-radius: 20px; padding: 30px; background-color: #0d1117; color: #ffffff;">
-
-<!-- Banner -->
-<!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
 
 <p>
 <h2 align=>  Arish Singh     
@@ -33,49 +25,6 @@
 </div>
 
 <hr>
-
-<p align="left">
-
-  <br>
- <p align="left">
-  <a href="https://dev.to/arishsingh99"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://www.linkedin.com/in/arish-singh-63a5b732a"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://leetcode.com/u/Arishsingh99/"><img src="pppppp.png" height ="50px" width ="50px" /></a>
-  <a href="http://www.youtube.com/@Notaedit.76"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyLJ33DoPmLLAnofKWFw5THprcFbLcleOnA&s" height ="50px" width ="50px" /></a>
-  <a href="https://www.instagram.com/arish.talks/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
-
-
----
-
-###  Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,github,figma,python,html,css,javascript,mysql,mongodb,firebase,bootstrap"  width="1000px"/>
-</p>
-
----
-### 
-<ul align="left">
-  <li><a href="https://dev.to/arishsingh99/amazon-q-developer-cli-2p3h"> how i build a Game with Amazon Q Developer CLI</a></li>
-  <li><a href="https://dev.to/arishsingh99/aws-security-101-2g1a">  how i build a AWS Security 101</a></li>
-
-
-  <p align="right">
-  <img src="thug-light.png" height="70" width="70"><img src="venom-original.png" height="70" width="70"><img src="goblin.png" height="70" width="70"><img src="sandman.png" height="70" width="70"><img src="doctor-octopus.png" height="70" width="70"><img src="mysterio.png" height="70" width="70"></p>
-</ul>
-  
----
-
-
-
-
-
--------------------------------------------------------------------
-
-
-
-
 
 
 
