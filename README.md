@@ -8,15 +8,15 @@
 <!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
 
 <p>
-<h1 align="center" > welcome  &hearts;</b>!</h1>
+<h2 align="center" > Yooo Arish Singh </b>!</h2>
 
-<h4 align="center">Yooo Arish Singh here !  a passionate Develoeper and freelancer who loves collaborating with tech communities, writing insightful research
-content, and helping companies grow through  projects and audience engagement.</h4>
+<h4 align="center">
+</h4>
  
 <div align="center">
   <p style="color:"red"; font-size:20px; font-style:italic; font-weight:bold;">
-    🌱 "I would rather love to be a sprout, constantly growing and evolving,<br>
-    than a tree standing still and waiting for time to pass." 🌿
+     "I would rather love to be a sprout, constantly growing and evolving,<br>
+    than a tree standing still and waiting for time to pass." 
   </p>
 </div>
 <!-- GitHub Profile Views Counter -->
