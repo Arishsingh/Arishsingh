@@ -8,8 +8,8 @@
  
 <div align="">
   <p style="color:"red"; font-size:20px; font-style:italic; font-weight:bold;">
-     "I would rather love to be a sprout, constantly growing and evolving,<br>
-    than a tree standing still and waiting for time to pass." 
+     I would rather love to be a sprout, constantly growing and evolving,<br>
+    than a tree standing still and waiting for time to pass.
   </p>
 </div>
 <!-- GitHub Profile Views Counter -->
