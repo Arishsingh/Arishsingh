@@ -8,7 +8,11 @@
 <!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
 
 <p>
-<h2 align="center" > Yooo Arish Singh </b>!</h2>
+<h2 align="center" > Yooo Arish Singh </b><p align="right">
+</h2>
+
+
+
 
 <h4 align="center">
 </h4>
@@ -59,10 +63,28 @@
 
 
 
-
-
+<p
+  <img src="standing.png" height="70" width="70"><img src="running-change-step.png" height="70" width="70"><img src="running-left-step.png" height="70" width="70"><img src="running-right-step.png" height="70" width="70"><img src="shoot.png" height="70" width="70"><img src="slide.png" height="70" width="70"><img src="standing.png" height="70" width="70">
+</p>
+-------------------------------------------------------------------
 
 <p align="right">
-  <img src="thug-light.png" height="50" width="50"><img src="venom-original.png" height="50" width="50"><img src="goblin.png" height="50" width="50"><img src="sandman.png" height="50" width="50"><img src="doctor-octopus.png" height="50" width="50"><img src="mysterio.png" height="50" width="50"></p>
+  <img src="thug-light.png" height="70" width="70"><img src="venom-original.png" height="70" width="70"><img src="goblin.png" height="70" width="70"><img src="sandman.png" height="70" width="70"><img src="doctor-octopus.png" height="70" width="70"><img src="mysterio.png" height="70" width="70"></p>
 
 -----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
