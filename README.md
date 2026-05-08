@@ -8,7 +8,8 @@
 <!-- <img src="https://render.gitanimals.org/farms/yashksaini-coder" width="800" height="250" /> -->
 
 <p>
-<h2 align=>  Arish Singh </b><p align="right">
+<h2 align=>  Arish Singh     
+</b><p align="right">
 </h2>
 
 
@@ -25,12 +26,13 @@
   <img src="https://img.shields.io/github/followers/Arishsingh?label=Followers&style=social" alt="followers" />
 </p>
 
-<div align="right">
+<div align="center">
    <p
-  <img src="standing.png" height="70" width="70"><img src="running-change-step.png" height="70" width="70"><img src="running-left-step.png" height="70" width="70"><img src="running-right-step.png" height="70" width="70"><img src="shoot.png" height="70" width="70"><img src="slide.png" height="70" width="70"><img src="standing.png" height="70" width="70">
+  <img src="standing.png" height="70" width="70"><img src="running-change-step.png" height="70" width="70"><img src="running-left-step.png" height="70" width="70"><img src="running-right-step.png" height="70" width="70"><img src="shoot.png" height="70" width="70"><img src="slide.png" height="70" width="70"><img src="standing.png" height="70" width="70"> 
 </p>
 </div>
----
+
+<hr>
 
 <p align="left">
 
@@ -46,7 +48,8 @@
 
 ---
 
-### 📦 Skills
+###  Skills
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,github,figma,python,html,css,javascript,mysql,mongodb,firebase,bootstrap"  width="1000px"/>
 </p>
