@@ -57,26 +57,12 @@
 ---
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-streak-stats-ruby.vercel.app/?user=Arishsingh&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Arishsingh?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" alt="Arish Singh GitHub Stats" />
-  <br />
-</p>
-   
-  </tr>
-  
-</table>
 
 
 
 
 
 <p align="right">
-  <img src="/images/thug.png" height="50" width="50"><img src="/images/venom-original.png" height="50" width="50"><img src="/images/goblin.png" height="50" width="50"><img src="/images/sandman.png" height="50" width="50"><img src="/images/doctor-octopus.png" height="50" width="50"><img src="/images/mysterio.png" height="50" width="50"></p>
+  <img src="thug-light.png" height="50" width="50"><img src="venom-original.png" height="50" width="50"><img src="goblin.png" height="50" width="50"><img src="sandman.png" height="50" width="50"><img src="doctor-octopus.png" height="50" width="50"><img src="mysterio.png" height="50" width="50"></p>
 
 -----------
