@@ -74,3 +74,9 @@
 
 
 
+
+
+<p align="right">
+  <img src="/images/thug.png" height="50" width="50"><img src="/images/venom-original.png" height="50" width="50"><img src="/images/goblin.png" height="50" width="50"><img src="/images/sandman.png" height="50" width="50"><img src="/images/doctor-octopus.png" height="50" width="50"><img src="/images/mysterio.png" height="50" width="50"></p>
+
+-----------
