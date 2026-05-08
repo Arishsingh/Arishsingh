@@ -24,6 +24,9 @@
 </p>
 </div>
 
+<p align="right">
+   The best is yet to come...
+</p>
 <hr>
 
 
