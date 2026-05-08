@@ -27,9 +27,9 @@
 </ul>
   
 ---
-<h5 align="center">
+<h6 align="center">
  Fueled by caffeine and unnecessary side projects that i shift soon.
-</h5>
+</h6>
 
 
 
