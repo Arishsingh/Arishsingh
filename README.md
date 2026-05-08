@@ -28,7 +28,7 @@
   
 ---
 <h5 align="center">
- New project coming soon
+ Fueled by caffeine and unnecessary side projects that i shift soon.
 </h5>
 
 
