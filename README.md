@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="h.gif" alt="Typing SVG" width="1000px" height ="500px" />
+  <img src="Spider-Man Marvel GIF by Spider-Man Across The Spider-Verse.gif" alt="Typing SVG" width="1000px" height ="500px" />
 </p>
 
 <div align="left" style="border: 2px solid #6C63FF; border-radius: 20px; padding: 30px; background-color: #0d1117; color: #ffffff;">
