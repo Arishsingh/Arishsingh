@@ -48,7 +48,7 @@ content, and helping companies grow through  projects and audience engagement.</
 </p>
 
 ---
-### 🫶🏻 My stuff
+### 
 <ul align="left">
   <li><a href="https://dev.to/arishsingh99/amazon-q-developer-cli-2p3h"> how i build a Game with Amazon Q Developer CLI</a></li>
   <li><a href="https://dev.to/arishsingh99/aws-security-101-2g1a">  how i build a AWS Security 101</a></li>
@@ -72,10 +72,5 @@ content, and helping companies grow through  projects and audience engagement.</
   
 </table>
 
-🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arishsingh&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 
