@@ -1,8 +1,8 @@
 
 <p>
-<h2 align=>  Arish Singh     
+<h4 align=>  Arish Singh     
 </b><p align="right">
-</h2>
+</h4>
 
 
  
@@ -18,12 +18,15 @@
   <img src="https://img.shields.io/github/followers/Arishsingh?label=Followers&style=social" alt="followers" />
 </p>
 
-<div align="center">
-   <p
-  <img src="standing.png" height="70" width="70"><img src="running-change-step.png" height="70" width="70"><img src="running-left-step.png" height="70" width="70"><img src="running-right-step.png" height="70" width="70"><img src="shoot.png" height="70" width="70"><img src="slide.png" height="70" width="70"><img src="standing.png" height="70" width="70"> 
-</p>
-</div>
+
 <hr>
+
+
+  <p align="right">
+  <img src="thug-light.png" height="70" width="70"><img src="venom-original.png" height="70" width="70"><img src="goblin.png" height="70" width="70"><img src="sandman.png" height="70" width="70"><img src="doctor-octopus.png" height="70" width="70"><img src="mysterio.png" height="70" width="70"></p>
+</ul>
+  
+---
 
 
 
