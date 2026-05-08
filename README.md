@@ -23,10 +23,6 @@
   <img src="standing.png" height="70" width="70"><img src="running-change-step.png" height="70" width="70"><img src="running-left-step.png" height="70" width="70"><img src="running-right-step.png" height="70" width="70"><img src="shoot.png" height="70" width="70"><img src="slide.png" height="70" width="70"><img src="standing.png" height="70" width="70"> 
 </p>
 </div>
-
-<p align="right">
-   The best is yet to come...
-</p>
 <hr>
 
 
