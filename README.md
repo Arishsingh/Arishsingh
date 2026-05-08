@@ -28,7 +28,7 @@
   
 ---
 <h5 align="center">
- new project coming soon
+ New project coming soon
 </h5>
 
 
