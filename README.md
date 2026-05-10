@@ -26,20 +26,18 @@
 <img src="standing.png" height="70" width="70">  <img src="thug-light.png" height="70" width="70"><img src="venom-original.png" height="70" width="70"><img src="goblin.png" height="70" width="70"><img src="sandman.png" height="70" width="70"><img src="doctor-octopus.png" height="70" width="70"><img src="mysterio.png" height="70" width="70"></p>
 </ul>
   
----
-<h6 align="center">
- Fueled by caffeine and unnecessary side projects that i shift soon.
-</h6>
+----
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ![My GitHub Game](game.gif)
 
----
 [![](https://visitcount.itsvg.in/api?id=euclidstellar&icon=0&color=2)](https://visitcount.itsvg.in)
 
 
 
-
+<h6 align="center">
+ Fueled by caffeine and unnecessary side projects that i shift soon.
+</h6>
 
 
 
