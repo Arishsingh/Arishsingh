@@ -19,9 +19,6 @@
 </p>
 
 
-<hr>
-
-
   <p align="right">
 <img src="standing.png" height="70" width="70">  <img src="thug-light.png" height="70" width="70"><img src="venom-original.png" height="70" width="70"><img src="goblin.png" height="70" width="70"><img src="sandman.png" height="70" width="70"><img src="doctor-octopus.png" height="70" width="70"><img src="mysterio.png" height="70" width="70"></p>
 </ul>
