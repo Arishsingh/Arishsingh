@@ -33,8 +33,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=euclidstellar&icon=0&color=2)](https://visitcount.itsvg.in)
 
-
-
 <h6 align="center">
  Fueled by caffeine and unnecessary side projects that i shift soon.
 </h6>
