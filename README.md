@@ -31,7 +31,7 @@
 [![](https://visitcount.itsvg.in/api?id=euclidstellar&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <h6 align="center">
- Fueled by caffeine and unnecessary side projects that i shift soon.
+ I'm keeping my personal projects private at the moment since my progress on them is slow going. I'll definitely share them when I have MVPs ready, for now they're just for my own learning and enjoyment :)
 </h6>
 
 
