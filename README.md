@@ -1,2 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7F7F7&width=435&lines=I'm++doing+because+it's+fun!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=robot&weight=200&size=15&duration=4000&pause=100&color=F7F4F4&width=435&lines=I+love+collecting+skills+like+Pok%C3%A9mon+)](https://git.io/typing-svg)
