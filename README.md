@@ -1,1 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=robot&weight=200&size=15&duration=4000&pause=100&color=F7F4F4&width=435&lines=I+love+collecting+skills+like+Pok%C3%A9mon+)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=too+busy+to+water+my+own+grass)](https://git.io/typing-svg)
+
+</div>
