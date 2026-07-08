@@ -22,7 +22,7 @@ I build **AI-native devtools, coding agents, open-source infrastructure, and cre
 
 
 
-Currently building Immortal.
+Currently building Immortal She.
 <br/>
 <p>
   <strong>Tech Stack ⚙️</strong>
