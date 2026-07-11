@@ -1,3 +1,9 @@
+<div align="">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F7EEEC&width=435&lines=Arish+Singh%2C+Backend+Engineer+%26+Founder"
+    alt="Typing SVG"
+  />
+
 
 <table width="100%">
   <tr>
@@ -12,6 +18,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 I build **AI-native devtools, coding agents, open-source infrastructure, and creative engineering tools.**
 
