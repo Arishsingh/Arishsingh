@@ -24,7 +24,7 @@
 I build **AI-native devtools, coding agents, open-source infrastructure, and creative engineering tools.**
 
 ▸ Creator of **[Velocity](https://velocityyyy.vercel.app/)** · v1 launched.<br/>
-▸ 3M+ views · 1.5K+ followers · Content creator , video editor & Ai film making <br/>
+▸ 3M+ views · 4K+ followers · Content creator , video editor & Ai film making <br/>
 ▸ I built  **[Neurix](https://neurixx-six.vercel.app/)** · to worked with Clients globally.<br/>
 ▸ i built  **[Croma](https://croma-nine.vercel.app/)** , **[Nexa](https://nexaaa-launch.vercel.app/)** ,  **[One](https://onee-eight.vercel.app/)**·<br/>
 
