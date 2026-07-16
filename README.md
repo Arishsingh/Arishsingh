@@ -30,7 +30,7 @@ I build **AI-native devtools, coding agents, open-source infrastructure, and cre
 
 
 
-Currently building Immortal She.
+Currently building Immortal She and currently it exist in Bit bucket.
 <br/>
 <p>
   <strong>Tech Stack ⚙️</strong>
